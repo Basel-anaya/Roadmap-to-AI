@@ -4,7 +4,7 @@
 
 ---
 
-This repository ...
+This repository is for any AI begginer who wants to get the necessary knowledge to start his journey in the Artificial intelligence field.
 
 
 ## 0- Prerequisities
