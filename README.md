@@ -12,6 +12,7 @@ This repository is for any AI begginer who wants to get the necessary knowledge 
 To start the journey of being a Data Scientist, ML engineer, ML devops..etc.
 Everyone have to take the fundamentals so they can start from somewhere right?
 
+[Click here to see the prerequisities](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/Prerequisites)
 
 ## 1- Machine Learning
 
