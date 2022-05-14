@@ -319,7 +319,9 @@ Conclusion: Described how Linear Algebra applied in various fields of AI, it is 
 
 Linear Algebra promotes to other subjects like Matrix Calculus which is heavily used in Back propagation in DL.
 
-References :
+---
+
+## References :
 
 - Artificial Intelligence: A Modern Approach by Stuart Russell, Peter Norvig,
 - Deep Learning Book by Ian Goodfellow and Yoshua Bengio and Aaron Courville
