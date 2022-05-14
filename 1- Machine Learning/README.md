@@ -1,1 +1,1 @@
-
+Machine Learning (ML) : ML is an algorithmic based approach that learns from training data and give decisions on unseen data. There are many algorithms exists in ML for supervised and unsupervised learning.
