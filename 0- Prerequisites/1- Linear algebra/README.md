@@ -12,8 +12,6 @@
 
 Going through each sub-field explain bit to the concerned topic and how applying it. The following diagram explain the areas where we apply Linear Algebra in AI.
 
----
-
 ![image](https://user-images.githubusercontent.com/81964452/168445056-638e5e87-b94f-44a9-a5bb-b55b2df2fe31.png)
 
 #### Note: Please note that Data representation, Data Processing are not the sub areas of AI, these are using in ML,DL & NLP areas.
