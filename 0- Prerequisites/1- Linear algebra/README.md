@@ -2,7 +2,7 @@
 
 Well, Artificial Intelligence is not a single subject it has sub-fields like Learning (Machine Learning & Deep Learning), Communication using NLP, Knowledge Representation & Reasoning, Problem Solving, Uncertain Knowledge & Reasoning.
 
-
+### In this repository you will find 2 Linear algebra notebooks from 
 ### Describing the sub-field concepts where LA Objects can be applied.
 
 Going through each sub-field explain bit to the concerned topic and how applying it. The following diagram explain the areas where we apply Linear Algebra in AI.
