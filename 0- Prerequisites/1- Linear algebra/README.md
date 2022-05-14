@@ -1,8 +1,8 @@
 # Linear Algebra - How it is used in AI ?
 
-Well, Artificial Intelligence is not a single subject it has sub-fields like Learning (Machine Learning & Deep Learning), Communication using NLP, Knowledge Representation & Reasoning, Problem Solving, Uncertain Knowledge & Reasoning.
+#### Well, Artificial Intelligence is not a single subject it has sub-fields like Learning (Machine Learning & Deep Learning), Communication using NLP, Knowledge Representation & Reasoning, Problem Solving, Uncertain Knowledge & Reasoning.
 
-### In this repository you will find 2 Linear algebra notebooks from Jon Krohn's Machine Learning Foundations series that will assist you in the foundations of LA, then you will have an idea and a concept to continue learning about the usage of LA in different AI fields.
+#### In this repository you will find 2 Linear algebra notebooks from Jon Krohn's Machine Learning Foundations series that will assist you in the foundations of LA, then you will have an idea and a concept to continue learning about the usage of LA in different AI fields.
 
 - [Introduction to Linear Algebra](https://github.com/Basel-anaya/Roadmap-to-AI/blob/main/0-%20Prerequisites/1-%20Linear%20algebra/intro-to-linear-algebra.ipynb)
 - [Linear Algebra II](https://github.com/Basel-anaya/Roadmap-to-AI/blob/main/0-%20Prerequisites/1-%20Linear%20algebra/linear-algebra-ii.ipynb)
