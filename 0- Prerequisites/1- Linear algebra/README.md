@@ -54,8 +54,10 @@ Here axis can be column or row. Axis 0 (zero) means Column, axis 1(one) means Ro
 - argmax: Returns the indices of the maximum values along an axis.
 
 ---
+## Now to learn about the usage of linear algebra in ML
+#### Note: This section may be too advanced, hence you have to learn about [Machine learning](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/1-%20Machine%20Learning) concept first.
 
-### [Machine Learning (ML)](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/1-%20Machine%20Learning)
+### Machine Learning (ML)
 
 #### How LA concepts applied in ML-Regression Algorithm?
 Here describes how Linear Algebra applies to Regression analysis. Explaining the concepts through Linear Multiple Regression Algorithm. The following diagram describes LA concepts in ML and DL.
