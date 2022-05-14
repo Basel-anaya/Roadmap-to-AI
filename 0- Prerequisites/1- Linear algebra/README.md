@@ -53,3 +53,78 @@ Here axis can be column or row. Axis 0 (zero) means Column, axis 1(one) means Ro
 
 - argmax: Returns the indices of the maximum values along an axis.
 
+---
+
+### [Machine Learning (ML)](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/1-%20Machine%20Learning)
+
+#### How LA concepts applied in ML-Regression Algorithm?
+Here describes how Linear Algebra applies to Regression analysis. Explaining the concepts through Linear Multiple Regression Algorithm. The following diagram describes LA concepts in ML and DL.
+
+![image](https://user-images.githubusercontent.com/81964452/168445302-1739bc35-5b6d-4897-8602-9200726ad21a.png)
+
+#### Regression Analysis explain in terms of Vectors, Matrices and their properties.
+
+### What is Regression?
+It is a statistical technique for estimating the relationships between a dependent and independent variables.
+
+- The most common form of regression analysis is Linear Regression
+
+#### In the following equations will describe Simple and Multiple Linear Regression.
+
+![image](https://user-images.githubusercontent.com/81964452/168445324-bcc66357-e691-4995-9790-264b300facfb.png)
+
+#### This technique predicts continuous responses — for example, forecasting stock prices, House Rent, etc.,.
+
+- Residual: In Machine Learning/statistical terminology, it is a difference between the observed value and the estimated value of the target variable.
+
+Notation is given below:
+
+![image](https://user-images.githubusercontent.com/81964452/168445342-27482d1d-0060-415d-8ec9-b8748fb0fe69.png)
+
+#### Sum of Squares of Residuals: Let’s define residual as ‘r’.
+
+![image](https://user-images.githubusercontent.com/81964452/168445353-d71a896f-5595-47c8-b090-692e2dc62c87.png)
+
+#### Least Square method: Least squares method is the standard approach and it minimizes the Sum of Squares of Residuals ‘S’.
+
+- Ordinary Least Squares (OLS) or Linear Least Squares estimate the parameters in a regression model by minimizing the sum of the squares of residuals. It draws a line through the data points that minimize the SSE between observed and predicted (or fitted or estimated ) values.
+
+---
+
+![image](https://user-images.githubusercontent.com/81964452/168445364-33711ba6-3e5d-4ba0-b25b-846b5e361cbb.png)
+
+The most important application is data fitting.
+
+#### Data Fitting: It is the process of constructing a curve fitting or mathematical function, that has the best fit to a set of data points.
+
+- Curve fitting can be linear or non-linear. The following describes both curves.
+
+Linear Curves:
+
+![image](https://user-images.githubusercontent.com/81964452/168445384-19cb4d3e-19ab-4a6c-95a1-0a54cbc3ec76.png)
+
+After the introduction of Regression Analysis let us define the loss and cost function of it.
+
+- Loss Function: The Loss function of Linear Regression is defined is as follows
+
+![image](https://user-images.githubusercontent.com/81964452/168445397-86b39409-eb99-4075-b672-fbcdc6d0527e.png)
+
+Finding out the parameters by differentiation w.r.to parameters.
+
+![image](https://user-images.githubusercontent.com/81964452/168445409-3e25bb99-9587-42d4-9613-6182e0ac6e58.png)
+
+#### What is Regularization?
+- To avoid the over-fitting problem, the regularization technique is used to shrink the magnitude of Parameters. This can be achieved by adding a penalty (a function of the sum of parameters) into the cost function. L1, L2, Drop out and Max norm constraints used in DL, whereas L1, L2, L1+L2 used in ML.
+
+#### If you are using neural networks for ML algorithms you can apply all of the above 4 regularization techniques.
+
+- L2 Regularization: It is the most common form of Regularization. It can be implemented by penalizing the squared magnitude of all parameters directly in the objective.
+
+- L1 Regularization: Each weight w we add the term param*|w| to the objective function, both L1, L2 is defined is as follows:
+
+![image](https://user-images.githubusercontent.com/81964452/168445430-65cf39d7-d66a-4779-a6ac-fc8961c277f8.png)
+
+#### Use of Vector Norms in Machine Learning for Regularization:
+
+![image](https://user-images.githubusercontent.com/81964452/168445451-994ece61-37c2-424c-acb5-1e56861704f1.png)
+
