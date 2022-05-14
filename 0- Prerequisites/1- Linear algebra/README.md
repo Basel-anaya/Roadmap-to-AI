@@ -133,7 +133,7 @@ Finding out the parameters by differentiation w.r.to parameters.
 ---
 
 ## Now to learn the usage of linear algebra in DL.
-#### Note: To better understand this section learn about the Deep learning concept.
+#### Note: To better understand this section learn about the [Deep learning](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/2-%20Deep%20Learning) concept.
 
 ### Deep Learning (DL)
 
