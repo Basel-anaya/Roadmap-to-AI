@@ -9,7 +9,7 @@
 To start the journey to become a future Data Scientist, ML engineer, ML devops..etc.
 You have to take the fundamentals so they can guide you to start with machine learning.
 
-[Click here to see the prerequisities](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/0-Prerequisites)
+[Click here to see the prerequisities](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/0- Prerequisites)
 
 ## 1- Machine Learning
 
