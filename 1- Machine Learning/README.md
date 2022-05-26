@@ -16,10 +16,10 @@
 
 #### Alongside these, I’d go through:
 
-1- freeCodeCamp — for web development skills.
-2- CS50 + CS50 artificial intelligence — for foundational computer science and artificial intelligence skills.
-3- The Missing Part of Your CS Degree — for the parts CS50 misses out on and for coverage of all the tools you’ll end up using here and there anyway.
-4- Hands-On Machine Learning with Scikit-Learn and TensorFlow Part 1 — covers a vast majority of the most useful and time-tested machine learning techniques.
+1. [freeCodeCamp](https://www.freecodecamp.org/) — for web development skills.
+2. [CS50](https://cs50.harvard.edu/college/2020/fall/) + [CS50 artificial intelligence](https://youtube.com/playlist?list=PLhQjrBD2T382Nz7z1AEXmioc27axa19Kv) — for foundational computer science and artificial intelligence skills.
+3. [The Missing Part of Your CS Degree](https://missing.csail.mit.edu/) — for the parts CS50 misses out on and for coverage of all the tools you’ll end up using here and there anyway.
+4. Hands-On Machine Learning with Scikit-Learn and TensorFlow Part 1 — covers a vast majority of the most useful and time-tested machine learning techniques.
 There’s a lot here. So to consolidate my knowledge I’d build 1–2 milestone projects using Streamlit or the web development skills I’d learned from freeCodeCamp. And of course, these would be shared on GitHub.
 
 ### The advanced path (6–12+ months/ongoing)
