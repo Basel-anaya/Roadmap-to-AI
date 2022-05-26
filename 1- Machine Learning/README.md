@@ -9,18 +9,19 @@ ML is an algorithmic based approach that learns from training data and give deci
 
 **The machine learning specific parts would be:**
 
-- Machine learning concepts — understand what kind of problems machine learning can and should be used for. Elements of AI is great for this.
-- Python — the language itself, along with the machine learning specific frameworks, NumPy, pandas, matplotlib, Scikit-Learn. Check out pythonlikeyoumeanit or the official documentation for each of these.
-- Machine learning tools — the main one being Jupyter Notebooks.
+1. Machine learning concepts — understand what kind of problems machine learning can and should be used for. [Elements of AI](https://www.elementsofai.com/) is great for this.
+2. Python — the language itself, along with the machine learning specific frameworks, NumPy, pandas, matplotlib, Scikit-Learn. Check out [pythonlikeyoumeanit](https://www.pythonlikeyoumeanit.com/) or [my repository](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/0-%20Prerequisites/4-%20Python%20Programming).
+3. Machine learning tools — the main one being Jupyter Notebooks.
 [Note: The Zero to Mastery Machine Learning course (the course I teach) teaches the above 3 topics.]
 
-- Machine learning math — linear algebra from 3Blue1Brown or Khan Academy, matrix manipulation and calculus from Khan Academy or just read the Mathematics for Machine Learning Book.
+4. Machine learning math — linear algebra from 3Blue1Brown or Khan Academy, matrix manipulation and calculus from Khan Academy or just read the Mathematics for Machine Learning Book.
+
 Alongside these, I’d go through:
 
-- freeCodeCamp — for web development skills.
-- CS50 + CS50 artificial intelligence — for foundational computer science and artificial intelligence skills.
-- The Missing Part of Your CS Degree — for the parts CS50 misses out on and for coverage of all the tools you’ll end up using here and there anyway.
-- Hands-On Machine Learning with Scikit-Learn and TensorFlow Part 1 — covers a vast majority of the most useful and time-tested machine learning techniques.
+1- freeCodeCamp — for web development skills.
+2- CS50 + CS50 artificial intelligence — for foundational computer science and artificial intelligence skills.
+3- The Missing Part of Your CS Degree — for the parts CS50 misses out on and for coverage of all the tools you’ll end up using here and there anyway.
+4- Hands-On Machine Learning with Scikit-Learn and TensorFlow Part 1 — covers a vast majority of the most useful and time-tested machine learning techniques.
 There’s a lot here. So to consolidate my knowledge I’d build 1–2 milestone projects using Streamlit or the web development skills I’d learned from freeCodeCamp. And of course, these would be shared on GitHub.
 
 ### The advanced path (6–12+ months/ongoing)
