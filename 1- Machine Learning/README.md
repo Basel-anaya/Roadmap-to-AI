@@ -11,10 +11,8 @@
 
 1. Machine learning concepts — understand what kind of problems machine learning can and should be used for. [Elements of AI](https://www.elementsofai.com/) is great for this.
 2. Python — the language itself, along with the machine learning specific frameworks, NumPy, pandas, matplotlib, Scikit-Learn. Check out [pythonlikeyoumeanit](https://www.pythonlikeyoumeanit.com/) or [my repository](https://github.com/Basel-anaya/Roadmap-to-AI/tree/main/0-%20Prerequisites/4-%20Python%20Programming).
-3. Machine learning tools — the main one being Jupyter Notebooks.
-[Note: The Zero to Mastery Machine Learning course (the course I teach) teaches the above 3 topics.]
-
-4. Machine learning math — linear algebra from 3Blue1Brown or Khan Academy, matrix manipulation and calculus from Khan Academy or just read the Mathematics for Machine Learning Book.
+3. Machine learning tools — the main one being [Jupyter Notebooks](https://jupyter.org/).
+4. Machine learning math — linear algebra from [3Blue1Brown](https://www.3blue1brown.com/) or [Khan Academy](https://www.khanacademy.org/), matrix manipulation and calculus from Khan Academy or just read the [Mathematics for Machine Learning Book](https://www.amazon.com/Mathematics-Machine-Learning-Peter-Deisenroth/dp/110845514X).
 
 #### Alongside these, I’d go through:
 
