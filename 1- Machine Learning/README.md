@@ -25,9 +25,9 @@ There’s a lot here. So to consolidate my knowledge I’d build 1–2 milestone
 ### The advanced path (6–12+ months/ongoing)
 #### Once I’d gotten some foundational machine learning skills, I’d build upon them with the following.
 
-1. All of fast.ai’s curriculum(s) — practical use cases of many deep learning and machine learning techniques. Watching one fast.ai lecture turned into a solution we built for a client.
-2. Any of deeplearning.ai’s curriculum(s) — choose the one which sparks your interest the most. Compliments fast.ai’s practical approach with theory.
-3. Full-stack deep learning curriculum — this is where you’re going to tie together the machine learning knowledge you’ve got with the web development knowledge you’ve been learning.
+1. [All of fast.ai’s curriculum(s)](https://www.fast.ai/) — practical use cases of many deep learning and machine learning techniques. Watching one fast.ai lecture turned into a solution we built for a client.
+2. [Any of deeplearning.ai’s curriculum(s)](https://www.deeplearning.ai/) — choose the one which sparks your interest the most. Compliments fast.ai’s practical approach with theory.
+3. [Full-stack deep learning curriculum](https://fall2019.fullstackdeeplearning.com/) — this is where you’re going to tie together the machine learning knowledge you’ve got with the web development knowledge you’ve been learning.
 4. Replicate a research paper (or multiple).
 5. Hands-on Machine Learning Book with Scikit-Learn and TensorFlow Part 2 — TensorFlow focused but the concepts bridge to many different applications.
 
