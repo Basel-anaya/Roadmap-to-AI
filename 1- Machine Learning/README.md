@@ -7,7 +7,7 @@ ML is an algorithmic based approach that learns from training data and give deci
 
 ### The beginner path (6–12+ months):
 
-The machine learning specific parts would be:
+**The machine learning specific parts would be:**
 
 - Machine learning concepts — understand what kind of problems machine learning can and should be used for. Elements of AI is great for this.
 - Python — the language itself, along with the machine learning specific frameworks, NumPy, pandas, matplotlib, Scikit-Learn. Check out pythonlikeyoumeanit or the official documentation for each of these.
